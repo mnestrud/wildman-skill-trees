@@ -40,24 +40,24 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/<BR ALIGN="RIGHT"/>
 
   // Sequence
   
-  mov_24_racklunge         [label="{{24|Rack Opposite Leg\nStep-Back Lunge}|VERTICAL SPINE}" URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=24"]
-  mov_25_clean2sblunge     [label="{{25|Clean Step-Back Clean}}"                             URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=25"]
-  mov_26_halfkneelclean    [label="{{26|Half-Kneeling Clean}}"                               URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=26"]
-  mov_27_cleansblungeclean [label="{{27|Clean Step-Back\nLunge Clean}}"                      URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=27"]
-  mov_28_floorpress        [label="{{28|Single-Bell Floor Press}}"                           URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=28"]
-  mov_29_halfkneelcap      [label="{{29|Half-Kneeling\nClean & Press}}"                      URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=29"]
-  mov_30_floorpressroll    [label="{{30|Floor Press with Roll}}"                             URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=30"]
-  mov_31_kneelwindmill     [label="{{31|Half-Kneeling Windmill}}"                            URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=31"]
-  mov_32_quartgu           [label="{{32|Quarter Turkish Get-Up}}"                            URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=32"]
-  mov_33_kneelcapwindmill  [label="{{33|Half-Kneeling\nClean & Press Windmill}}"             URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=34"]
-  mov_34_halfgu            [label="{{34|Half Get-Up}}"                                       URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=35"]
+  mov_24_racklunge         [label="{{24|Rack Opposite Leg\nStep-Back Lunge}|VERTICAL SPINE}" URL="https://www.youtube.com/watch?v=hCPFcyzi1mY&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=24"]
+  mov_25_clean2sblunge     [label="{{25|Clean Step-Back Clean}}"                             URL="https://www.youtube.com/watch?v=7d3WKwry58k&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=25"]
+  mov_26_halfkneelclean    [label="{{26|Half-Kneeling Clean}}"                               URL="https://www.youtube.com/watch?v=viCFuF7NMts&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=26"]
+  mov_27_cleansblungeclean [label="{{27|Clean Step-Back\nLunge Clean}}"                      URL="https://www.youtube.com/watch?v=qS-NxtfG4qw&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=27"]
+  mov_28_floorpress        [label="{{28|Single-Bell Floor Press}}"                           URL="https://www.youtube.com/watch?v=md0deOTOC08&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=28"]
+  mov_29_halfkneelcap      [label="{{29|Half-Kneeling\nClean & Press}}"                      URL="https://www.youtube.com/watch?v=_SSEgx0GK_o&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=29"]
+  mov_30_floorpressroll    [label="{{30|Floor Press with Roll}}"                             URL="https://www.youtube.com/watch?v=_Qv-c8TrfXk&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=30"]
+  mov_31_kneelwindmill     [label="{{31|Half-Kneeling Windmill}}"                            URL="https://www.youtube.com/watch?v=gHOyJgH1I5U&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=31"]
+  mov_32_quartgu           [label="{{32|Quarter Turkish Get-Up}}"                            URL="https://www.youtube.com/watch?v=TCnGI6icldM&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=32"]
+  mov_33_kneelcapwindmill  [label="{{33|Half-Kneeling\nClean & Press Windmill}}"             URL="https://www.youtube.com/watch?v=HQOiWX0zF28&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=33"]
+  mov_34_halfgu            [label="{{34|Half Get-Up}}"                                       URL="https://www.youtube.com/watch?v=IX--Mdh20JA&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=34"]
 
-  mov_35_cap2ohsblunge  [label="{{35|Clean & Press to Overhead\nStep-Back Lunge}}"  URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=37"]
-  mov_36_kneelhipdrop   [label="{{36|Half-Kneeling Hip Drop}}"                      URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=38"]
-  mov_37_halfgu2hip     [label="{{37|Half Get-Up\nto Hip Pass}}"                    URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=39"]
-  mov_38_kneelcap2hip   [label="{{38|Half-Kneeling Clean & Press\nto Hip Drop}}"    URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=40"]
+  mov_35_cap2ohsblunge  [label="{{35|Clean & Press to Overhead\nStep-Back Lunge}}"  URL="https://www.youtube.com/watch?v=ajcE8y1kVYo&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=35"]
+  mov_36_kneelhipdrop   [label="{{36|Half-Kneeling Hip Drop}}"                      URL="https://www.youtube.com/watch?v=_zlu2HO194o&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=36"]
+  mov_37_halfgu2hip     [label="{{37|Half Get-Up\nto Hip Pass}}"                    URL="https://www.youtube.com/watch?v=kvOBNsXNKbE&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=37"]
+  mov_38_kneelcap2hip   [label="{{38|Half-Kneeling Clean & Press\nto Hip Drop}}"    URL="https://www.youtube.com/watch?v=f9icxCy02Ks&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=38"]
   // 42 fits better with this diagram
-  mov_42_halfgu2kneel   [label="{{42|Half Get-Up to Hip Pass\n(to Half-Kneeling)}}" URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=45"]
+  mov_42_halfgu2kneel   [label="{{42|Half Get-Up to Hip Pass\n(to Half-Kneeling)}}" URL="https://www.youtube.com/watch?v=9JMiQ2sbdDY&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=42"]
 
 
   // Precursor dependencies

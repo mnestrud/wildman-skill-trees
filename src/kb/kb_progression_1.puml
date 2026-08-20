@@ -64,10 +64,10 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/<BR ALIGN="RIGHT"/>
   mov_23_racksquat    [label="{{23|Single-Bell Front Squat}}"                  URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=23"]
 
   // Next skills
-  mov_24_racklunge      [label="{{KB-24|Rack Opposite Leg\nStep-Back Lunge}|VERTICAL SPINE}" URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=24"]
-  mov_25_clean2sblunge  [label="{{KB-25|Clean Step-Back Clean}}"                             URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=25"]
-  mov_26_halfkneelclean [label="{{KB-26|Half-Kneeling Clean}}"                               URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=26"]
-  mov_29_halfkneelcap   [label="{{KB-29|Half-Kneeling\nClean & Press}}"                      URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=29"]
+  mov_24_racklunge      [label="{{KB-24|Rack Opposite Leg\nStep-Back Lunge}|VERTICAL SPINE}" URL="https://www.youtube.com/watch?v=hCPFcyzi1mY&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=24"]
+  mov_25_clean2sblunge  [label="{{KB-25|Clean Step-Back Clean}}"                             URL="https://www.youtube.com/watch?v=7d3WKwry58k&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=25"]
+  mov_26_halfkneelclean [label="{{KB-26|Half-Kneeling Clean}}"                               URL="https://www.youtube.com/watch?v=viCFuF7NMts&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=26"]
+  mov_29_halfkneelcap   [label="{{KB-29|Half-Kneeling\nClean & Press}}"                      URL="https://www.youtube.com/watch?v=_SSEgx0GK_o&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=29"]
 
   mov_01_deadlift -> mov_02_swing;
   mov_01_deadlift -> mov_03_atw;
