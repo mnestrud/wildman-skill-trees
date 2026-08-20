@@ -30,23 +30,23 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/<BR ALIGN="RIGHT"/>
     mov_23_racksquat      [label="{{KB-23|Single-Bell Front Squat}}"                   URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=23"]
   }
 
-  mov_39_boxsquat2boat      [label="{{39|Box Squat to Boat Pose}}"              URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=41"]
-  mov_40_bwspinalrock       [label="{{40|Spinal Rock\n(Bodyweight)}}"           URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=42"]
-  mov_41_flatbackpullover   [label="{{41|Flat Back Pullover}}"                  URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=43"]
+  mov_39_boxsquat2boat      [label="{{39|Box Squat to Boat Pose}}"              URL="https://www.youtube.com/watch?v=9LnkeCqD4O8&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=39"]
+  mov_40_bwspinalrock       [label="{{40|Spinal Rock\n(Bodyweight)}}"           URL="https://www.youtube.com/watch?v=gHXlPcStsgQ&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=40"]
+  mov_41_flatbackpullover   [label="{{41|Flat Back Pullover}}"                  URL="https://www.youtube.com/watch?v=xVBRtOASNBo&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=41"]
   // 42 in TGU diagram
-  mov_43_spinalrock         [label="{{43|Spinal Rock}}"                         URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=48"]
-  mov_44_pushpress          [label="{{44|Push Press}}"                          URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=49"]
-  mov_45_gobsquatcurl       [label="{{45|Rock-Bottom\nCurl with Goblet Squat}}" URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=50"]
+  mov_43_spinalrock         [label="{{43|Spinal Rock}}"                         URL="https://www.youtube.com/watch?v=RxihRubZ_TY&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=43"]
+  mov_44_pushpress          [label="{{44|Push Press}}"                          URL="https://www.youtube.com/watch?v=mRAV8-JVYX8&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=44"]
+  mov_45_gobsquatcurl       [label="{{45|Rock-Bottom\nCurl with Goblet Squat}}" URL="https://www.youtube.com/watch?v=XAZKzuCNWMA&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=45"]
   // Missing 46
-  mov_47_racksquatpickup    [label="{{47|Rock-Bottom\nFront Squat Pickup}|PAUSE AT BOTTOM}" URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=52"]
-  mov_48_thruster           [label="{{48|Thruster}}"                                        URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=48"]
-  mov_49_seatedpress        [label="{{49|Seated Two-Handed\nOverhead Press}}"               URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=54"]
-  mov_50_2hdeadclean2rack   [label="{{50|Two-Handed Dead Clean\nto Double Front Rack}}"     URL="https://www.youtube.com/watch?v=acqKxfMGAbk&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=55"]
+  mov_47_racksquatpickup    [label="{{47|Rock-Bottom\nFront Squat Pickup}|PAUSE AT BOTTOM}" URL="https://www.youtube.com/watch?v=WbCUSxp2ewQ&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=47"]
+  mov_48_thruster           [label="{{48|Thruster}}"                                        URL="https://www.youtube.com/watch?v=Mr-l0Kvowi4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=48"]
+  mov_49_seatedpress        [label="{{49|Seated Two-Handed\nOverhead Press}}"               URL="https://www.youtube.com/watch?v=nU-gdg0pAGg&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=49"]
+  mov_50_2hdeadclean2rack   [label="{{50|Two-Handed Dead Clean\nto Double Front Rack}}"     URL="https://www.youtube.com/watch?v=acqKxfMGAbk&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=50"]
   mov_51_fourcountsquat     [label="{{51|Four-Count Squat\n(Bodyweight)}}"                  URL="https://www.youtube.com/watch?v=1rkGfL1EdWI"]
   mov_52_rackaltshinbox     [label="{{52|Rack Alt Shinbox}}"                                URL="https://www.youtube.com/watch?v=AoEYX36Q2Zg"]
   mov_53_hornygobsquat      [label="{{53|Handle Up\nGoblet Squat}}"                         URL="https://www.youtube.com/watch?v=i2AtDi4yZSA"]
   mov_54_shinboxpress       [label="{{54|Contra Shinbox Press}}"                            URL="https://www.youtube.com/watch?v=FEbi2lKVEHU"]
-  mov_55_backpullsituppress [label="{{55|Flat Back Pullover Situp Press}}"                  URL="https://www.youtube.com/watch?v=KTDVl0Lkdc4&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=57"]
+  mov_55_backpullsituppress [label="{{55|Flat Back Pullover Situp Press}}"                  URL="https://www.youtube.com/watch?v=wFosq8t2Dug&list=PLk4oYPJ7TXKhX8YqA2AVrfgs_pEF6p7KA&index=55"]
   
   mov_72_deck               [label="{{72|Deck Squat}}"                        URL="https://www.youtube.com/watch?v=vUJ3sZVwZ4Y"];
   
